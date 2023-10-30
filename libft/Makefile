@@ -7,6 +7,7 @@ NAME := libft.a
 SRCS := ft_strlen.c \
 		ft_strchr.c \
 		ft_strtok.c \
+		ft_strjoin.c \
 		ft_strncmp.c
 
 # Object files
